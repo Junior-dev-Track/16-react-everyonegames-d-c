@@ -11,7 +11,6 @@ function HomePage() {
   return (
     <>
       <Header />
-      <SearchBar />
       <NewRelease />
     </>
   );
